@@ -12,7 +12,9 @@ and let the script do the rests
 -Editor Role and editor account 
 	-username: editor
 	-password: editor321
+	
 Other modules
+
 	* [Admin Menu][1]
 	* [Backup Migrate][2]
 	* [Colorbox][3]
