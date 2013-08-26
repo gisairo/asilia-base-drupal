@@ -7,33 +7,34 @@ run drush make /path/to/asilia.make
 and let the script do the rests
 
 #### What the script sets up?	
-	-Drupal 7 latest branch
-	-Core Modules
-	-Editor Role and editor account 
-		-username: editor
-		-password: editor321
-	Other modules
-		- [Admin Menu][1]
-		- [Backup Migrate][2]
-		- [Colorbox][3]
-		- [CTools][4]
-		- [Date][5]
-		- [Devel][6]
-		- [Entity][7]
-		- [Field Slideshow][8]
-		- [IMCE][9]
-		- [Libraries][10]
-		- [Link][11]
-		- [Module Filter][12]
-		- [Pathauto][13]
-		- [Token][14]
-		- [Views][15]
-		- [Webform][16]
-		- [Wsiywig][17]
-		- [php][18]
+-Drupal 7 latest branch
+-Core Modules
+-Editor Role and editor account 
+	-username: editor
+	-password: editor321
+Other modules
+	- [Admin Menu][1]
+	- [Backup Migrate][2]
+	- [Colorbox][3]
+	- [CTools][4]
+	- [Date][5]
+	- [Devel][6]
+	- [Entity][7]
+	- [Field Slideshow][8]
+	- [IMCE][9]
+	- [Libraries][10]
+	- [Link][11]
+	- [Module Filter][12]
+	- [Pathauto][13]
+	- [Token][14]
+	- [Views][15]
+	- [Webform][16]
+	- [Wsiywig][17]
+	- [php][18]
 
 
 ###links
+
 [1]: http:drupal.org/project/admin_menu/ "Admin Menu"
 [2]: http:drupal.org/project/backup_migrate/ "Backup Migrate"
 [3]: http:drupal.org/project/colorbox/ "Colorbox"
