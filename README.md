@@ -2,6 +2,8 @@
 
 Make sure you have drush installed and configured properly. Use this [guide](http://drupalize.me/videos/what-drush) to help you setup drush.
 
+Clone this repository to a folder where you want to install drupal and then:
+
 run drush make /path/to/asilia.make 
 
 and let the script do the rests
