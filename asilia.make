@@ -28,7 +28,7 @@ projects[]	= wysiwyg
 projects[]	= imce
 projects[]	= field_slideshow
 projects[]	= colorbox
-projects[]	= php
+
 ;use drush colorbox-pluging to download the required colorbox plugin 
 ;same for libraries above and jquery cycle and carousel
 ;themes

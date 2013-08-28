@@ -37,8 +37,6 @@ Other modules
 * [php][18]
 
 
-###links
-
 [1]: http:drupal.org/project/admin_menu/ "Admin Menu"
 [2]: http:drupal.org/project/backup_migrate/ "Backup Migrate"
 [3]: http:drupal.org/project/colorbox/ "Colorbox"
