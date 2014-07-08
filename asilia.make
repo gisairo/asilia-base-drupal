@@ -25,10 +25,13 @@ projects[]	= module_filter
 projects[]	= webform
 projects[]	= media
 projects[]	= wysiwyg
+projects[]  = imce_wysiwyg
 projects[]	= imce
 projects[]	= field_slideshow
 projects[]	= colorbox
-
+projects[]  = view_unpublished
+projects[]  = override_node_options
+ 
 ;use drush colorbox-pluging to download the required colorbox plugin 
 ;same for libraries above and jquery cycle and carousel
 ;themes
