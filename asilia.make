@@ -32,6 +32,7 @@ projects[]	= colorbox
 projects[]  = view_unpublished
 projects[]  = override_node_options
 projects[]  = data_export_import
+projects[]  = minify
 ;use drush colorbox-pluging to download the required colorbox plugin 
 ;same for libraries above and jquery cycle and carousel
 ;themes
