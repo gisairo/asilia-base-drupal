@@ -33,6 +33,15 @@ projects[]  = view_unpublished
 projects[]  = override_node_options
 projects[]  = data_export_import
 projects[]  = minify
+projects[]  = features
+projects[]  = jquery_update
+projects[]  = boxes
+projects[]  = strongarm
+projects[]  = context
+projects[]  = context_ui
+
+libraries[colorbox][download][type] = file
+libraries[colorbox][download][url] = http://colorpowered.com/colorbox/latest
 ;use drush colorbox-pluging to download the required colorbox plugin 
 ;same for libraries above and jquery cycle and carousel
 ;themes
