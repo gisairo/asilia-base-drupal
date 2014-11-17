@@ -38,7 +38,25 @@ projects[]  = jquery_update
 projects[]  = boxes
 projects[]  = strongarm
 projects[]  = context
-projects[]  = context_ui
+
+;seo 
+projects[] = redirect
+projects[] = page_title
+projects[] = google_analytics
+projects[] = globalredirect
+projects[] = xmlsitemap
+projects[] = search404
+projects[] = site_verify
+
+;security
+projects[] = seckit
+projects[] = password_policy
+projects[] = securepages
+projects[] = username_enumeration_prevention
+;perfomance, varnish requires additional configuration, so does memcache
+projects[] = views_litepager
+projects[] = memcache
+projects[] = varnish 
 
 libraries[colorbox][download][type] = file
 libraries[colorbox][download][url] = http://colorpowered.com/colorbox/latest
