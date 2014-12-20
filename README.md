@@ -8,6 +8,9 @@ run drush make /path/to/asilia.make
 
 and let the script do the rests
 
+install the site with this drush command
+drush site-install asilia --account-name=admin --account-pass=admin --db-url=mysql://YourMySQLUser:RandomPassword@localhost/YourMySQLDatabase
+
 #### What the script sets up?	
 -Drupal 7 latest branch
 -Core Modules
